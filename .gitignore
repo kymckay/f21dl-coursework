@@ -1,0 +1,5 @@
+# Ignore any data files
+/DATA/
+
+# Ignore any course materials
+*.pdf
